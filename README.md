@@ -6,7 +6,7 @@ Are you ready to explore the infinite depths of space and overcome thrilling cha
 
 Run 3 is a dynamic and exciting endless runner game where players navigate through a series of challenging tunnels in outer space. Your goal? Keep running, avoid falling into the void, and reach new high scores while unlocking unique characters and uncovering hidden stories.
 
-## Why Play Run 3?
+## Why Play [Run 3](https://run-3.click/)?
 
 ### 1. **Innovative Gameplay Mechanics**
 Run 3 takes the classic endless runner concept and adds a unique twist. You can rotate the tunnels as you run, changing gravity to find the safest path. This innovative mechanic keeps the gameplay fresh and engaging.
